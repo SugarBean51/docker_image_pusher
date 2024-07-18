@@ -1,1 +1,2 @@
-plexinc/pms-docker
+plexinc/pms-docker:latest
+kerberos/agent:latest
