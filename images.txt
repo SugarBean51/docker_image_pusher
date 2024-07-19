@@ -1,2 +1,1 @@
-plexinc/pms-docker:latest
-kerberos/agent:latest
+ccrisan/motioneye
