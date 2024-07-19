@@ -1,1 +1,1 @@
-ccrisan/motioneye
+ccrisan/motioneye:master-armhf
