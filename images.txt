@@ -1,1 +1,1 @@
-ccrisan/motioneye:dev-amd64
+shinobisystems/shinobi
