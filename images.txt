@@ -1,1 +1,1 @@
-ccrisan/motioneye:master-armhf
+ccrisan/motioneye:dev-amd64
