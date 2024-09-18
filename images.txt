@@ -1,1 +1,1 @@
-blakeblackshear/frigate
+blakeblackshear/frigate:stable
