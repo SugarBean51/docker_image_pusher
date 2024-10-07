@@ -1,1 +1,1 @@
-linuxserver/nextcloud:latest
+linuxserver/nextcloud:previous-version-28.0.10
