@@ -1,1 +1,2 @@
 plexinc/pms-docker:latest
+mzz2017/v2raya
