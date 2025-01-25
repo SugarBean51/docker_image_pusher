@@ -1,2 +1,1 @@
-plexinc/pms-docker:latest
 ollama/ollama:latest
