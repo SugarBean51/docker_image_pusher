@@ -1,2 +1,1 @@
-1panel/maxkb:latest
-ollama/ollama
+mi-gpt:latest
